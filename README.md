@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayabshah
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on mail at ariba@thewion.com  
 
